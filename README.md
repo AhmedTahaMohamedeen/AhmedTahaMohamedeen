@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ <h3> 💻 RimDev App 💻</h3>](https://github.com/AhmedTahaMohamedeen)
 
--  <h2>📧**ahmedtahamohamedeen@gmail.com**</h2> 
+-  <h2>📧</h2> **ahmedtahamohamedeen@gmail.com**
 
 - 📄 my resume [https://drive.google.com/file/d/1krC3OcKKBOU-mYM2hWUesSM9QnAUyRCu/view?usp=sharing](https://drive.google.com/file/d/1krC3OcKKBOU-mYM2hWUesSM9QnAUyRCu/view?usp=sharing)
 
