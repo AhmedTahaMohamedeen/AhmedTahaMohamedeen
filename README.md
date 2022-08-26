@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtahamohamedeen&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtahamohamedeen" /> </p>
 
-- 🔭 I’m currently working on [ <h3> 💻 RimDev App 💻</h3>](https://github.com/AhmedTahaMohamedeen)
+- [ <h3> 💻 RimDev App 💻</h3>](https://github.com/AhmedTahaMohamedeen)
 
 - <h3>📧</h3> **ahmedtahamohamedeen@gmail.com**
 
