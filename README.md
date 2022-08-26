@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtahamohamedeen&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtahamohamedeen" /> </p>
 
-- 🔭 I’m currently working on [💻 RimDev App 💻](https://github.com/AhmedTahaMohamedeen)
+- 🔭 I’m currently working on [<h2💻 RimDev App 💻</h2>](https://github.com/AhmedTahaMohamedeen)
 
-- 📫 Gmail 📧📧 **ahmedtahamohamedeen@gmail.com**
+- 📫 Gmail <h2📧</h2> **ahmedtahamohamedeen@gmail.com**
 
 - 📄 my resume [https://drive.google.com/file/d/1krC3OcKKBOU-mYM2hWUesSM9QnAUyRCu/view?usp=sharing](https://drive.google.com/file/d/1krC3OcKKBOU-mYM2hWUesSM9QnAUyRCu/view?usp=sharing)
 
