@@ -6,14 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtahamohamedeen&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtahamohamedeen" /> </p>
 
 - [ SHOPPY app ](https://github.com/AhmedTahaMohamedeen/shoppy)
-- [ <h3> 💻 URBAN app 💻</h3>](https://github.com/AhmedTahaMohamedeen/URBAN)
-- [ <h3> 💻 al_rahili app 💻</h3>](https://github.com/AhmedTahaMohamedeen/al_rahili)
-- [ <h3> 💻 my_gallery app 💻</h3>](https://github.com/AhmedTahaMohamedeen/my_gallery0)
-- [ <h3> 💻 intro_animated app 💻</h3>](https://github.com/AhmedTahaMohamedeen/intro_animated)
+- [  URBAN app](https://github.com/AhmedTahaMohamedeen/URBAN)
+- [ al_rahili app ](https://github.com/AhmedTahaMohamedeen/al_rahili)
+- [  my_gallery app ](https://github.com/AhmedTahaMohamedeen/my_gallery0)
+- [  intro_animated app ](https://github.com/AhmedTahaMohamedeen/intro_animated)
 - 
 - <h3>📧 ahmedtahamohamedeen@gmail.com</h3> 
 
-- 📄 my resume [ <h3> 💻 MY CV 💻</h3>](https://drive.google.com/file/d/1dsE2JvAm9xjAuQGKs_VeOCZsEU4J7Z0u/view?usp=share_link)
+- 📄 my resume [  MY CV ](https://drive.google.com/file/d/1dsE2JvAm9xjAuQGKs_VeOCZsEU4J7Z0u/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
