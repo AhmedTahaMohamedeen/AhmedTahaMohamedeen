@@ -11,7 +11,7 @@
 - [  my_gallery app ](https://github.com/AhmedTahaMohamedeen/my_gallery0)
 - [  intro_animated app ](https://github.com/AhmedTahaMohamedeen/intro_animated)
 - 
-- # [📧 ahmedtahamohamedeen@gmail.com] (https://ahmedtahamohamedeen@gmail.com)
+- # [📧 ahmedtahamohamedeen@gmail.com](https://ahmedtahamohamedeen@gmail.com)
 
 -# 📄 my resume [  MY CV ](https://drive.google.com/file/d/1dsE2JvAm9xjAuQGKs_VeOCZsEU4J7Z0u/view?usp=share_link)
 
