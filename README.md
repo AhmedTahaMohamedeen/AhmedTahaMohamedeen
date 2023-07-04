@@ -16,7 +16,7 @@
 - # [📧 ahmedtahamohamedeen@gmail.com](https://ahmedtahamohamedeen@gmail.com)
 - # [📞 01033987890](https://wa.me/+201033987890)
 
--# 📄 my resume [  MY CV ](https://drive.google.com/file/d/1dsE2JvAm9xjAuQGKs_VeOCZsEU4J7Z0u/view?usp=share_link)
+-# 📄 my resume [  MY CV ](https://drive.google.com/file/d/146CgCeWHjBk-YrhUw_Fsi4KYOiJ15cYn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
