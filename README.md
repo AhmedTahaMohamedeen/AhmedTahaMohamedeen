@@ -18,16 +18,8 @@
 - # [📧 ahmedtahamohamedeen@gmail.com](https://ahmedtahamohamedeen@gmail.com)
 - # [📞 01033987890](https://wa.me/+201033987890)
 
--# 📄 my resume [  MY CV ](https://drive.google.com/file/d/15FUA2PDFyoYZ1GYkJAcJj-tYt9JXamBz/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/botttaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="botttaaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-taha-bota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-taha-851a6219a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17968838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17968838" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ahmed.taha.mohamedeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.bota.3" height="30" width="40" /></a>
-<a href="https://instagram.com/botaaaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="botaaaaaaaaaaaa" height="30" width="40" /></a>
-<a href="https://dribbble.com/botaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="botaaaaa" height="30" width="40" /></a>
+
 <a href="https://wa.me/+201033987890" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="ucmj24y77kfz55ljdny5qewg" height="40" width="40" /></a>
 
 
